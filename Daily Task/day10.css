@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+p,
+ul,
+dl {
+    color: lightcoral;
+}
+
+.line {
+    color: #000;
+}
+
+.table {
+
+    text-align: center;
+}
+.nav{
+    display: flex;
+    gap: 20px;
+}

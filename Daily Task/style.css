@@ -1,0 +1,123 @@
+.gap {
+    display: flex;
+    gap: 30px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.he {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 900px;
+    gap: 30px;
+}
+
+.head {
+    display: flex;
+    color: white;
+    gap: 20px;
+    justify-content: center;
+    background-color: darkgreen;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.flex {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+    gap: 200px;
+    text-align: center;
+    justify-content: space-around;
+    background-color: darkgreen;
+    color: white;
+    height: 400px;
+
+
+}
+
+.move {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+    gap: 200px;
+    align-items: center;
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+    justify-content: flex-end;
+}
+
+.button {
+    color: white;
+    border: 2px solid white;
+    background-color: darkgreen;
+    width: 120px;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(3, 94, 3);
+}
+
+.button-1 {
+    color: green;
+    border: 2px solid white;
+    background-color: white;
+    cursor: pointer;
+    width: 140px;
+    height: 40px;
+    margin-top: 10px;
+    padding: 1px;
+    border-radius: 50px;
+}
+
+.button-1:hover {
+    background-color: rgb(157, 223, 157);
+}
+
+.button-2 {
+    color: white;
+    border: 2px solid white;
+    background-color: darkgreen;
+    cursor: pointer;
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+    padding: 1px;
+    border-radius: 50px;
+}
+
+.button-2:hover {
+    background-color: rgb(3, 94, 3);
+}
+
+.image img {
+    width: 300px;
+    height: 100%;
+}
+
+.sai {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    color: white;
+    text-align: center;
+    margin-left: 30px;
+    background-color: darkgreen;
+    height: 400px;
+    margin-top: 40px;
+
+}
+
+.img1 {
+    width: 600px;
+    height: 100%;
+}
+.sr{
+
+    align-items: center;
+    justify-content: center;
+}
