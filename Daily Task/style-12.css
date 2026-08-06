@@ -1,0 +1,91 @@
+.nav {
+    display: flex;
+    margin-top: 20px;
+}
+
+.hi {
+    display: flex;
+    gap: 30px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 100px;
+    justify-content: space-between;
+}
+
+body {
+    background-color: rgb(128, 47, 3);
+    background-image: url("https://png.pngtree.com/png-clipart/20240810/original/pngtree-flying-cup-of-coffee-with-splash-and-png-image_15739217.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% right;
+    margin-left: 80px;
+}
+
+.flex {
+    display: flex;
+    gap: 30px;
+}
+
+.head {
+    color: white;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+p {
+    color: white;
+}
+
+.he {
+    color: white;
+    margin-top: 80px;
+
+}
+
+.hmm {
+    margin-top: 20px;
+}
+
+.button {
+    background-color: rgb(128, 47, 3);
+    color: white;
+    border-radius: 30px;
+    padding: 5px;
+    border: 2px solid white;
+}
+
+.she {
+    display: flex;
+    gap: 500px;
+}
+
+.btn {
+    height: 40px;
+    background-color: orange;
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+    border: 2px solid white;
+}
+
+.pv {
+    color: orange;
+}
+
+.srujan {
+    display: flex;
+    margin-top: 20px;
+    color: white;
+    gap: 30px;
+    margin-left: 220px;
+}
+
+.be {
+    background-color: orange;
+    color: white;
+    width: 60px;
+    border-radius: 30px;
+    height: 30px;
+    margin-top: 10px;
+    border: 2px solid white;
+}
