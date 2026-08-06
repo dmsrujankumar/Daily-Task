@@ -13,7 +13,9 @@ body {
 p,
 ul,
 dl {
+
     color: lightcoral;
+    
 }
 
 .line {
@@ -24,7 +26,8 @@ dl {
 
     text-align: center;
 }
-.nav{
+
+.nav {
     display: flex;
     gap: 20px;
 }
