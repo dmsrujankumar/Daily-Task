@@ -1,0 +1,105 @@
+.nav{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    gap: 40px;
+    color: white;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.bar{
+    display: flex;
+    gap: 40px;
+}
+.main{
+    text-align: center;
+    margin-top: 80px;
+    color: white;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+}
+.line{
+    height: 60px;
+    width: 2px;
+    border-right: 2px solid antiquewhite ;
+}
+.background{
+    background-image: url("https://travelmediapr.com/wp-content/uploads/2021/05/most-beautiful-places-in-the-world2-thegem-blog-default.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.booking{
+    text-align: center;
+    align-items: center;
+}
+.image{
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+    justify-content: center;
+}
+.side{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.button{
+    padding: 5px;
+    background-color: coral;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 80px;
+}
+.btn-1{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid gray;
+    align-items: center;
+    width: 80px;
+}
+.btn-2{
+    align-items: center;
+    padding: 5px;
+    border-radius: 30px;
+    background-color: white;
+    border: 2px solid gray;
+    align-items: center;
+    width: 80px;
+    height: 30px;
+}
+.btn-3{
+    align-items: center;
+    padding: 5px;
+    border-radius: 30px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid gray;
+    align-items: center;
+    width: 80px;
+    height: 30px;
+}
+.btn-4{
+    align-items: center;
+    padding: 5px;
+    border-radius: 30px;
+    background-color: white;
+    border: 2px solid gray;
+    align-items: center;
+    width: 100px;
+}
+.font{
+    font-size: 30px;
+}
