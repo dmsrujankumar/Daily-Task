@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+}
+body{
+    margin-left: 50px;
+}
+.hi{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.hello{
+    display: flex;
+    gap: 60px;
+}
+.order{
+    display: flex;
+    gap: 40px;
+}
+.image{
+    background-color: green;
+    margin-top: -60px;    
+    
+}
+.signin{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 40px;
+    background-color: green;
+}
