@@ -1,0 +1,143 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 30px;
+    position: relative;
+}
+.travel{
+    position: absolute;
+    margin-left: 150px;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+.bl {
+    color: rgb(21, 21, 163);
+    font-weight: bold;
+}
+
+.bar {
+    display: flex;
+    gap: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.background {
+    background-image: url("https://image.shutterstock.com/image-photo/maldives-island-beach-tropical-landscape-260nw-2547993429.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px;
+    width: 100%;
+    position: relative;
+
+}
+
+.content {
+    align-items: center;
+    position: absolute;
+    left: 180px;
+    margin-top: 50px;
+    color: white;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 20px;
+    gap: 30px;
+}
+
+.head {
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.flex-1 {
+    display: flex;
+    justify-content: center;
+    line-height: 10px;
+    gap: 30px;
+}
+
+.gift {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 20px;
+    background-color: beige;
+    line-height: 5px;
+    margin-left: 100px;
+    height: 50px;
+    width: 80%;
+    padding: 15px;
+    /* margin: 20px auto; */
+    position: relative;
+}
+
+.btn {
+    position: absolute;
+    right: 80px;
+    top: 25px;
+    background-color: rgb(21, 21, 163);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+}
+
+.move {
+    position: absolute;
+    left: 50px;
+}
+
+.button {
+    background-color: rgb(21, 21, 163);
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+
+}
+
+.button-1 {
+    background-color: rgb(21, 21, 163);
+    border: none;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-top: -10px;
+
+}
+.btn-2{
+    border: none;
+    color: rgb(4, 4, 84) ;
+    background: none;
+    font-weight: bold;
+}
+.icon{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 50px;
+    font-size: 30px;
+}
+.left{
+    position: absolute;
+    margin-right: 550px;
+}
