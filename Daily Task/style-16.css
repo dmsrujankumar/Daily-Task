@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: space-between;
     margin-right: 30px;
+    font-weight: bold;
     position: relative;
 }
 .nav{
@@ -17,6 +18,10 @@
 
 .logo {
     margin-left: 50px;
+    /* position: fixed;
+    top: 0;
+    z-index: 1000;
+    border-radius: 50px; */
 }
 
 .bl {
